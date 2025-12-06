@@ -1,0 +1,7 @@
+{
+  "name": "Sword & Spirit",
+  "description": "A conversational Bible Theologian AI that helps you arm yourself with Scripture using advanced active recall techniques like Ratchet & Fade, Cloze Deletion, and Spaced Repetition via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
